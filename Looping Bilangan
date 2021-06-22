@@ -1,0 +1,5 @@
+harga1 = int(input("Masukkan Harga Item 1 : "))
+jumlah = int(input("Masukkan Jumlah : "))
+total = harga1 * jumlah
+print("Total Belanja : ", total, "Rupiah")
+print("Total Belanja : " + str(total) + "Rupiah")
